@@ -6,7 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-package "ngiinx" do
+package "nginx" do
 action :install
 end
 

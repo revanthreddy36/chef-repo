@@ -7,5 +7,5 @@ node_name                "revanth"
 client_key               "#{current_dir}/revanth.pem"
 validation_name          "rr"
 validation_key           "#{current_dir}/rr.pem"
-chef_server_url          "https://54.200.68.178/organizations/rr"
+chef_server_url          "https://54.213.254.124/organizations/rr"
 cookbook_path            ["#{current_dir}/../cookbooks"]
